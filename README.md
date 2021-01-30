@@ -10,7 +10,7 @@
 
   🙋🏻‍♂️ &nbsp; Cursando último semetre de Análise e Desenvolvimento de Sistemas.  
   💼 &nbsp; Atualmente trabalho como Desenvolvedor de Sistemas, 
-  <br> atuando no time de backend na [GAZIN](https://www.gazin.com).
+  <br> atuando no time de backend na [GAZINLAB](https://www.gazin.com).
 
 ## Linguagens e Ferramentas
 
