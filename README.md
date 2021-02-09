@@ -34,4 +34,6 @@
     </p>
     
     [![Jeyson Luiz Romualdo GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeysonlr&show_icons=true)](https://github.com/jeysonlr)
+    <br> <br>
+    ![VisitorHit](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=jeysonlr&repo=jeysonlr&countColor=%237B1E7A)
 
