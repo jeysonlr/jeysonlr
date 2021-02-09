@@ -8,7 +8,7 @@
 
 <h3>  Sobre mim!</h3>
 
-  🙋🏻‍♂️ &nbsp; Cursando último semetre de Análise e Desenvolvimento de Sistemas.  
+  🙋🏻‍♂️ &nbsp; Cursando último semestre de Análise e Desenvolvimento de Sistemas.  
   💼 &nbsp; Atualmente trabalho como Desenvolvedor de Sistemas, 
   <br> atuando no time de backend na [GAZINLAB](https://www.gazin.com).
 
