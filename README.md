@@ -8,9 +8,9 @@
 
 <h3>  Sobre mim!</h3>
 
-  🙋🏻‍♂️ &nbsp; Cursando Pós-Graduação em desenvolvimento de aplicações para web e dispositivos móveis - UniAlfa. <br />
+  🙋🏻‍♂️ &nbsp; Pós-Graduado em desenvolvimento de aplicações para web e dispositivos móveis - UniAlfa. <br />
   🙋🏻‍♂️ &nbsp; Graduado em Análise e Desenvolvimento de Sistemas - Unopar. <br />
-  💼 &nbsp; Atualmente trabalho como Desenvolvedor de Sistemas, atuando no time de backend na [GAZINTECH](https://www.gazin.com).
+  💼 &nbsp; Atualmente trabalho como SRE, atuando em várias frentes e tecnologias na [GAZINTECH](https://www.gazin.com).
 
 ## Linguagens e Ferramentas
 
